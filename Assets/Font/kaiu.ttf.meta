@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1f173d891632f8e40bff0221f547b4c8
+timeCreated: 1494688256
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFKai-SB
+  fontNames:
+  - DFKai-SB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
